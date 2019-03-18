@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MyCodeCamp/v15/Server/sqlite3
+/MyCodeCamp/bin/Debug/netcoreapp2.2
+/MyCodeCamp/obj
+/MyCodeCamp.Data/bin/Debug/netstandard2.0
+/MyCodeCamp.Data/obj
+/MyCodeCamp.Data.Repositories/bin/Debug/netstandard2.0
+/MyCodeCamp.Data.Repositories/obj
